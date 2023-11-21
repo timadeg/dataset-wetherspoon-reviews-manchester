@@ -27,7 +27,7 @@ The dataset includes the following fields:
 Each file corresponds to a different pub and includes the above-mentioned fields.
 
 ## Usage
-This dataset is intended for academic purposes, specifically for conducting sentiment analysis and topic modeling as part of coursework. If you intend to use this dataset for other purposes, please ensure to credit the original source and adhere to the licensing terms which can be found in the LICENSE file.
+This dataset is intended for academic purposes, specifically for conducting sentiment analysis and topic modeling as part of coursework. If you intend to use this dataset for other purposes, please ensure to credit me and adhere to the licensing terms which can be found in the LICENSE file.
 
 ## Repository Structure
 - `/data` - Contains the CSV files with the reviews for each pub.
