@@ -1,7 +1,7 @@
-# Greater Manchester JD Wetherspoons Pubs Reviews Dataset
+# Greater Manchester + West Midlands JD Wetherspoons Pubs Reviews Dataset
 
 ## Overview
-This repository contains a dataset of reviews for 24 JD Wetherspoons pubs located in Greater Manchester. The reviews were collected to support academic research in sentiment analysis and topic modeling as part of coursework assessments.
+This repository contains a dataset of reviews for 66 JD Wetherspoons pubs located in Greater Manchester and West Midlands. The reviews were collected to support academic research in sentiment analysis and topic modeling as part of coursework assessments.
 
 ## Data Collection
 The data was manually scraped using a custom script, which is available in a separate [repository](https://github.com/timadeg/google-map-reviews-scraper). Alongside the textual reviews, images were also scraped with the intention of training an image classifier specifically for JD Wetherspoon (JDW) establishments.
